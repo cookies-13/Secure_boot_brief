@@ -6,4 +6,4 @@
 > В образовательных целях и для снижения порога входа в теоретической части использованы некоторые собенности и абстракции и упрощения. Однако, никто не хочет учиться неправильно, так что при обнаружении неточностей - создайте issue или предложите pull request)
 
 Сам обзор:
-[Secure boot RPI](https://github.com/cookies-13/secure_boot_rpi)
+[Secure boot RPI](https://github.com/cookies-13/secure_boot_rpi](https://github.com/cookies-13/Secure_boot_brief/blob/main/secure_boot_rpi.md)
