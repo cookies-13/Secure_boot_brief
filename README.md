@@ -7,3 +7,6 @@
 
 Сам обзор:
 [Secure boot RPI](https://github.com/cookies-13/Secure_boot_brief/blob/main/secure_boot_rpi.md)
+
+Также вы можете посмотреть схему в редакторах диограмм:
+[Secure boot scheme](https://github.com/cookies-13/Secure_boot_brief/blob/main/secure_boot_scheme.drawio)
